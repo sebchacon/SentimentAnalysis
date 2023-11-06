@@ -1,0 +1,4 @@
+/Users/sebchacon/Documents/assignment-2-don-t-be-sentimental-sebchacon/build/CMakeFiles/sentiment.dir
+/Users/sebchacon/Documents/assignment-2-don-t-be-sentimental-sebchacon/build/CMakeFiles/test_DSString.dir
+/Users/sebchacon/Documents/assignment-2-don-t-be-sentimental-sebchacon/build/CMakeFiles/edit_cache.dir
+/Users/sebchacon/Documents/assignment-2-don-t-be-sentimental-sebchacon/build/CMakeFiles/rebuild_cache.dir
